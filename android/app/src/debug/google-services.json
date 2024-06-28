@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1087969584794",
+    "project_id": "dawini-cbec3",
+    "storage_bucket": "dawini-cbec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087969584794:android:448204428274fc0702a123",
+        "android_client_info": {
+          "package_name": "DAWINI.tn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfz5uNS0jkRF0m1N40N7zLaFJY19RBxm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
